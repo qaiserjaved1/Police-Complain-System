@@ -1,16 +1,9 @@
-# ecrime
 
-A new Flutter project.
+Police Complaint System App
 
-## Getting Started
+Overview
+The Police Complaint System App is a mobile application built using Flutter, 
+designed to streamline the process of filing and managing complaints by users against police personnel. 
+The app includes separate modules for both users and administrators to ensure a seamless and efficient experience.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This Police Complaint System App is open-source software licensed under the MIT License. Feel free to use, modify, and distribute the code.
